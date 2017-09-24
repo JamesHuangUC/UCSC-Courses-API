@@ -1,0 +1,947 @@
+{
+  "ucsc":[
+    {
+      "Course": [
+        "CMPS 5J"
+      ],
+      "Course Name": [
+        "Intro to Prog Java"
+      ],
+      "Description": "Introduces programming in Java for students who have no prior programming experience. Students learn programming and documentation skills, as well as algorithmic problem-solving, and programming methodologies. Introduces computers, compilers, and editors. Students write small to medium-sized programs. This course and courses 5C and 5P cover similar concepts, but use different programming languages. Because 5J followed by course 11 is a two-quarter alternative to the accelerated course 12A/L, engineering majors and students planning on continuing the programming sequence are encouraged to take 5J rather than 5C or 5P. Students may not receive credit for 5J taken concurrently or subsequently to course 12A, 12B, or Computer Engineering 13.",
+      "General Education": "MF",
+      "Location": [
+        "ClassroomUnit 002"
+      ],
+      "Prerequisite": " ",
+      "Professor": [
+        " McDowell,C.E."
+      ],
+      "Schedule": " MWF 02:40PM-03:45PM",
+      "Session": [
+        "01"
+      ],
+      "Term": "2017 Fall",
+      "Units": "5"
+    },
+    {
+      "Course": [
+        "CMPS 5P"
+      ],
+      "Course Name": [
+        "Intro Prog Python"
+      ],
+      "Description": "Introduces programming in Python, a high-level programming language used in the physical and social sciences and for Internet scripting. Students learn programming and documentation skills, as well as algorithmic problem-solving, coding, and debugging methodologies. Students write programs to solve sample problems drawn from a wide range of disciplines, primarily in the sciences. No prior programming experience is required, but a mathematics background at the pre-calculus level is assumed. This course and courses 5C and 5J cover similar concepts, but use different programming languages. Students may not receive credit for course 5P after receiving credit for course 11, 12A, or Computer Engineering 13.",
+      "General Education": "MF",
+      "Location": [
+        "Thim Lecture 003"
+      ],
+      "Prerequisite": " ",
+      "Professor": [
+        " Schuster,C."
+      ],
+      "Schedule": " MWF 02:40PM-03:45PM",
+      "Session": [
+        "01"
+      ],
+      "Term": "2017 Fall",
+      "Units": "5"
+    },
+    {
+      "Course": [
+        "CMPS 10"
+      ],
+      "Course Name": [
+        "Intro Computer Sci"
+      ],
+      "Description": "An overview of the theory, foundations, and practice of computer science with emphasis on what computers can and cannot do, now and in the future. Topics include algorithms and data, correctness and efficiency of algorithms, hardware, programming languages, limitations of computation, applications, and social issues. No programming skills are required as a prerequisite. Major concepts and open problems in computer science are presented without reliance on sophisticated mathematical tools. Students cannot receive credit for this course after completing course 12B.",
+      "General Education": "MF",
+      "Location": [
+        "Media Theater M110"
+      ],
+      "Prerequisite": " ",
+      "Professor": [
+        " Adams,D.W."
+      ],
+      "Schedule": " MWF 01:20PM-02:25PM",
+      "Session": [
+        "01"
+      ],
+      "Term": "2017 Fall",
+      "Units": "5"
+    },
+    {
+      "Course": [
+        "CMPS 11"
+      ],
+      "Course Name": [
+        "Inter Programming"
+      ],
+      "Description": "Continuation of course 5J. Covers basic object-oriented programming, event-driven programming, graphical user interface (GUI) creation, recursion, two-dimensional arrays. The two-quarter sequence courses 5J and 11 cover in two quarters the same material as the accelerated introductory course and lab 12A/L cover in one quarter. Students cannot receive credit this course and course 12A.",
+      "General Education": "MF",
+      "Location": [
+        "Media Theater M110"
+      ],
+      "Prerequisite": "Course 5J, and Mathematics 3 or 11A or 19A or Applied Mathematics and Statistics 3 or Applied Mathematics and Statistics/Economics 11A or a score of 400 or higher on the  mathematics placement examination (MPE).",
+      "Professor": [
+        " Norouzi,N."
+      ],
+      "Schedule": " MWF 04:00PM-05:05PM",
+      "Session": [
+        "01"
+      ],
+      "Term": "2017 Fall",
+      "Units": "5"
+    },
+    {
+      "Course": [
+        "CMPS 12A"
+      ],
+      "Course Name": [
+        "Intro Program (Accel)"
+      ],
+      "Description": "Accelerated introduction to programming. Students write medium-sized programs. Topics include: functions; conditionals and loops; classes; event-driven programming and graphic user interfaces (GUIs); recursion; and arrays. Students who have no or very limited programming experience should consider courses 5J and 11 which cover the same material in two quarters. Students may not receive credit for both this course and course 11. Some prior programming experience in a language such as C, C++, Java, or C# strongly recommended.",
+      "General Education": " ",
+      "Location": [
+        "Media Theater M110"
+      ],
+      "Prerequisite": "Mathematics 3 or 11A or 19A or Applied Mathematics and Statistics 3 or Applied Mathematics and Statistics/Economics 11A, or a score of 400 or higher on the  mathematics placement examination (MPE). Concurrent enrollment in 12L required.",
+      "Professor": [
+        " Adams,D.W."
+      ],
+      "Schedule": " MWF 02:40PM-03:45PM",
+      "Session": [
+        "01"
+      ],
+      "Term": "2017 Fall",
+      "Units": "5"
+    },
+    {
+      "Course": [
+        "CMPS 12B"
+      ],
+      "Course Name": [
+        "Intro Data Structur"
+      ],
+      "Description": "Teaches students to implement common data structures and the algorithms associated with each data structure, through progressively difficult exercises. Topics include big \"O\" notation; pointers, recursion (induction), and dynamic allocation; linked lists and list processing; stacks, queues, binary trees and binary search trees; simple sorting techniques and simple search techniques. Students will gain a working knowledge of the elements of the Java and C programming languages. Prior experience with Unix is assumed.",
+      "General Education": "MF",
+      "Location": [
+        "Media Theater M110"
+      ],
+      "Prerequisite": "Course 11 or 12A or Computer Engineering 13. Concurrent enrollment in course 12M required.",
+      "Professor": [
+        " Comandur,S."
+      ],
+      "Schedule": " TuTh 03:20PM-04:55PM",
+      "Session": [
+        "01"
+      ],
+      "Term": "2017 Fall",
+      "Units": "5"
+    },
+    {
+      "Course": [
+        "CMPS 12B"
+      ],
+      "Course Name": [
+        "Intro Data Structur"
+      ],
+      "Description": "Teaches students to implement common data structures and the algorithms associated with each data structure, through progressively difficult exercises. Topics include big \"O\" notation; pointers, recursion (induction), and dynamic allocation; linked lists and list processing; stacks, queues, binary trees and binary search trees; simple sorting techniques and simple search techniques. Students will gain a working knowledge of the elements of the Java and C programming languages. Prior experience with Unix is assumed.",
+      "General Education": "MF",
+      "Location": [
+        "Thim Lecture 003"
+      ],
+      "Prerequisite": "Course 11 or 12A or Computer Engineering 13. Concurrent enrollment in course 12M required.",
+      "Professor": [
+        " Finkelstein,S."
+      ],
+      "Schedule": " MWF 04:00PM-05:05PM",
+      "Session": [
+        "02"
+      ],
+      "Term": "2017 Fall",
+      "Units": "5"
+    },
+    {
+      "Course": [
+        "CMPS 12L"
+      ],
+      "Course Name": [
+        "Comp Prog Lab"
+      ],
+      "Description": "Laboratory sequence complementing topics taught in course 12A by providing training and exposure to several software development tools and practices not covered in course 12A. In addition, the lab provides an initial exposure to a second programming language to reinforce concepts from course 12A.",
+      "General Education": " ",
+      "Location": [
+        "TBA"
+      ],
+      "Prerequisite": "Mathematics 3 or 11A or 19A or Applied Mathematics and Statistics 3 or Applied Mathematics and Statistics/Economics 11A, or a score of 400 or higher on the  mathematics placement examination (MPE).",
+      "Professor": [
+        " Adams,D.W."
+      ],
+      "Schedule": " TBA To Be Arranged",
+      "Session": [
+        "01"
+      ],
+      "Term": "2017 Fall",
+      "Units": "2"
+    },
+    {
+      "Course": [
+        "CMPS 12M"
+      ],
+      "Course Name": [
+        "Data Structures Lab"
+      ],
+      "Description": "Complements course 12B, gaining additional competence with a number of important software development tools, languages, and techniques. Included are advanced Unix features and utilities such as grep, find, diff, the shell, and pipes; C programs utilizing I/O, arrays, pointers, and structures; a scripting language to perform simple text and file manipulation; and the make utility.",
+      "General Education": " ",
+      "Location": [
+        "TBA"
+      ],
+      "Prerequisite": "Course 11 or 12A or Computer Engineering 13.",
+      "Professor": [
+        " Comandur,S."
+      ],
+      "Schedule": " TBA To Be Arranged",
+      "Session": [
+        "01"
+      ],
+      "Term": "2017 Fall",
+      "Units": "2"
+    },
+    {
+      "Course": [
+        "CMPS 12M"
+      ],
+      "Course Name": [
+        "Data Structures Lab"
+      ],
+      "Description": "Complements course 12B, gaining additional competence with a number of important software development tools, languages, and techniques. Included are advanced Unix features and utilities such as grep, find, diff, the shell, and pipes; C programs utilizing I/O, arrays, pointers, and structures; a scripting language to perform simple text and file manipulation; and the make utility.",
+      "General Education": " ",
+      "Location": [
+        "TBA"
+      ],
+      "Prerequisite": "Course 11 or 12A or Computer Engineering 13.",
+      "Professor": [
+        " Finkelstein,S."
+      ],
+      "Schedule": " TBA To Be Arranged",
+      "Session": [
+        "02"
+      ],
+      "Term": "2017 Fall",
+      "Units": "2"
+    },
+    {
+      "Course": [
+        "CMPS 101"
+      ],
+      "Course Name": [
+        "Abstract Data Types"
+      ],
+      "Description": "Studies basic algorithms and their relationships to common abstract data types. Covers the notions of abstract data types and the distinction between an abstract data type and an implementation of that data type. The complexity analysis of common algorithms using asymptotic (big \"O\") notation is emphasized. Topics include sorting and searching techniques, basic graph algorithms, and algorithm design techniques. Abstract data types covered include priority queues, dictionaries, disjoint sets, heaps, balanced trees, and hashing. Familiarity with C, Java, and Unix is assumed.",
+      "General Education": " ",
+      "Location": [
+        "ClassroomUnit 002"
+      ],
+      "Prerequisite": "Course 12B or 13H; CMPE 16 or 16H; MATH 19B, 20B or 11B; and one course from the following: MATH 21, 22, 23A, or AMS 10.",
+      "Professor": [
+        " Tantalo,P."
+      ],
+      "Schedule": " TuTh 05:20PM-06:55PM",
+      "Session": [
+        "01"
+      ],
+      "Term": "2017 Fall",
+      "Units": "5"
+    },
+    {
+      "Course": [
+        "CMPS 101"
+      ],
+      "Course Name": [
+        "Abstract Data Types"
+      ],
+      "Description": "Studies basic algorithms and their relationships to common abstract data types. Covers the notions of abstract data types and the distinction between an abstract data type and an implementation of that data type. The complexity analysis of common algorithms using asymptotic (big \"O\") notation is emphasized. Topics include sorting and searching techniques, basic graph algorithms, and algorithm design techniques. Abstract data types covered include priority queues, dictionaries, disjoint sets, heaps, balanced trees, and hashing. Familiarity with C, Java, and Unix is assumed.",
+      "General Education": " ",
+      "Location": [
+        "ClassroomUnit 002"
+      ],
+      "Prerequisite": "Course 12B or 13H; CMPE 16 or 16H; MATH 19B, 20B or 11B; and one course from the following: MATH 21, 22, 23A, or AMS 10.",
+      "Professor": [
+        " Tantalo,P."
+      ],
+      "Schedule": " TuTh 05:20PM-06:55PM",
+      "Session": [
+        "02"
+      ],
+      "Term": "2017 Fall",
+      "Units": "5"
+    },
+    {
+      "Course": [
+        "CMPS 102"
+      ],
+      "Course Name": [
+        "Intro Algorthm Anyl"
+      ],
+      "Description": "Methods for the systematic construction and mathematical analysis of algorithms. Order notation, the RAM model of computation, lower bounds, and recurrence relations are covered. The algorithm design techniques include divide-and-conquer, branch and bound, and dynamic programming. Applications to combinatorial, graph, string, and geometric algorithms.",
+      "General Education": " ",
+      "Location": [
+        "Earth&Marine B206"
+      ],
+      "Prerequisite": "Course 101.",
+      "Professor": [
+        " Van Gelder,A."
+      ],
+      "Schedule": " MWF 02:40PM-03:45PM",
+      "Session": [
+        "01"
+      ],
+      "Term": "2017 Fall",
+      "Units": "5"
+    },
+    {
+      "Course": [
+        "CMPS 104A"
+      ],
+      "Course Name": [
+        "Fund Compiler Des 1"
+      ],
+      "Description": "An introduction to the basic techniques used in compiler design. Topics include compiler structure, symbol tables, regular expressions and languages, finite automata, lexical analysis, context-free languages, LL(1), recursive descent, LALR(1), and LR(1) parsing; and attribute grammars as a model of syntax-directed translation. Students use compiler building tools to construct a working compiler.",
+      "General Education": " ",
+      "Location": [
+        "Earth&Marine B206"
+      ],
+      "Prerequisite": "Course 101 and Computer Engineering 12 and 12L.",
+      "Professor": [
+        " Mackey,W.F."
+      ],
+      "Schedule": " TuTh 05:20PM-06:55PM",
+      "Session": [
+        "01"
+      ],
+      "Term": "2017 Fall",
+      "Units": "5"
+    },
+    {
+      "Course": [
+        "CMPS 109"
+      ],
+      "Course Name": [
+        "Adv Programming"
+      ],
+      "Description": "An introduction to object-oriented techniques of software development including data abstraction, inheritance, polymorphism, and object-oriented design. Extensive practice using a computer to solve problems, including construction of graphical user interfaces and a multithreaded client/server applications.",
+      "General Education": " ",
+      "Location": [
+        "Kresge Clrm 321"
+      ],
+      "Prerequisite": "Course 12B/M or 13H.",
+      "Professor": [
+        " Pohl,I."
+      ],
+      "Schedule": " TuTh 11:40AM-01:15PM",
+      "Session": [
+        "01"
+      ],
+      "Term": "2017 Fall",
+      "Units": "5"
+    },
+    {
+      "Course": [
+        "CMPS 111"
+      ],
+      "Course Name": [
+        "Intro Operating Sys"
+      ],
+      "Description": "Fundamental principles of operating systems: process synchronization, deadlocks, memory management, resource allocation, scheduling, storage systems, and study of several operating systems. A major programming project will be required.",
+      "General Education": " ",
+      "Location": [
+        "ClassroomUnit 001"
+      ],
+      "Prerequisite": "Course 101, and Computer Engineering 110 or Computer Engineering 112.",
+      "Professor": [
+        " Harrison,D.C."
+      ],
+      "Schedule": " TuTh 03:20PM-04:55PM",
+      "Session": [
+        "01"
+      ],
+      "Term": "2017 Fall",
+      "Units": "5"
+    },
+    {
+      "Course": [
+        "CMPS 112"
+      ],
+      "Course Name": [
+        "Compar Prog Lang"
+      ],
+      "Description": "Covers several programming languages and compares styles, philosophy, and design principles. Principles underlying declarative, functional, and object-oriented programming styles are studied. Students write programs emphasizing each of these techniques.",
+      "General Education": " ",
+      "Location": [
+        "Earth&Marine B206"
+      ],
+      "Prerequisite": "Course 101 or 109.",
+      "Professor": [
+        " Mackey,W.F."
+      ],
+      "Schedule": " TuTh 07:10PM-08:45PM",
+      "Session": [
+        "01"
+      ],
+      "Term": "2017 Fall",
+      "Units": "5"
+    },
+    {
+      "Course": [
+        "CMPS 115"
+      ],
+      "Course Name": [
+        "Intro Software Eng"
+      ],
+      "Description": "Emphasizes the characteristics of well-engineered software systems. Topics include requirements analysis and specification, design, programming, verification and validation, maintenance, and project management. Practical and research methods are studied. Imparts an understanding of the steps used to effectively develop computer software. (Formerly Software Methodology.)",
+      "General Education": " ",
+      "Location": [
+        "J Baskin Engr 152"
+      ],
+      "Prerequisite": "Satisfaction of the Entry Level Writing and Composition requirements and course 101.",
+      "Professor": [
+        " Jullig,R.K."
+      ],
+      "Schedule": " MWF 08:00AM-09:05AM",
+      "Session": [
+        "01"
+      ],
+      "Term": "2017 Fall",
+      "Units": "5"
+    },
+    {
+      "Course": [
+        "CMPS 115"
+      ],
+      "Course Name": [
+        "Intro Software Eng"
+      ],
+      "Description": "Emphasizes the characteristics of well-engineered software systems. Topics include requirements analysis and specification, design, programming, verification and validation, maintenance, and project management. Practical and research methods are studied. Imparts an understanding of the steps used to effectively develop computer software. (Formerly Software Methodology.)",
+      "General Education": " ",
+      "Location": [
+        "Merrill Acad 102"
+      ],
+      "Prerequisite": "Satisfaction of the Entry Level Writing and Composition requirements and course 101.",
+      "Professor": [
+        " Jullig,R.K."
+      ],
+      "Schedule": " MWF 12:00PM-01:05PM",
+      "Session": [
+        "02"
+      ],
+      "Term": "2017 Fall",
+      "Units": "5"
+    },
+    {
+      "Course": [
+        "CMPS 121"
+      ],
+      "Course Name": [
+        "Mobile Applications"
+      ],
+      "Description": "Introduces programming and application development for mobile devices. Covers the SDK and main programming platforms available on mobile devices, methodologies for developing native applications, division of computation between the mobile platform and servers, and mobile-to-server communications. Introduces platforms based on JavaScript and HTML5 for the development of applications that are portable across platforms. Students develop components of applications, leading to fully functional applications by the end of the course. Course based on emulators and SDK tools, so ownership of a cellphone/tablet is not required for the course.",
+      "General Education": " ",
+      "Location": [
+        "ClassroomUnit 001"
+      ],
+      "Prerequisite": "Courses 12B and 12M.",
+      "Professor": [
+        " Norouzi,N."
+      ],
+      "Schedule": " TuTh 05:20PM-06:55PM",
+      "Session": [
+        "01"
+      ],
+      "Term": "2017 Fall",
+      "Units": "5"
+    },
+    {
+      "Course": [
+        "CMPS 128"
+      ],
+      "Course Name": [
+        "Dist Sys:FileSharing"
+      ],
+      "Description": "Covers topics in distributed computing including communication, naming, synchronization, consistency and replication, fault tolerance, and security. Examples drawn from peer-to-peer systems, online gaming, the World Wide Web; other systems also used to illustrate approaches to these topics. Students implement simple distributed systems over the course of the quarter.",
+      "General Education": " ",
+      "Location": [
+        "Oakes Acad 105"
+      ],
+      "Prerequisite": "Course 101 or Computer Engineering 150. Course 111 or 105 recommended.",
+      "Professor": [
+        " Alvaro,P.A."
+      ],
+      "Schedule": " TuTh 09:50AM-11:25AM",
+      "Session": [
+        "01"
+      ],
+      "Term": "2017 Fall",
+      "Units": "5"
+    },
+    {
+      "Course": [
+        "CMPS 130"
+      ],
+      "Course Name": [
+        "Computational Model"
+      ],
+      "Description": "Various representations for regular languages, context-free grammars, normal forms, simple parsing, pumping lemmas, Turing machines, the Church-Turing thesis, intractable problems, the P-NP question.",
+      "General Education": " ",
+      "Location": [
+        "J Baskin Engr 152"
+      ],
+      "Prerequisite": "Course 101.",
+      "Professor": [
+        " Bailey,D.D."
+      ],
+      "Schedule": " MWF 09:20AM-10:25AM",
+      "Session": [
+        "01"
+      ],
+      "Term": "2017 Fall",
+      "Units": "5"
+    },
+    {
+      "Course": [
+        "CMPS 160"
+      ],
+      "Course Name": [
+        "Intro Comp Graphics"
+      ],
+      "Description": "Introduces techniques of modeling, transformation, and rendering for computer-generated imagery. Topics: 2D/3D primitives, projections, matrix composition, and shading algorithms. Programming assignments and major project required. Students cannot receive credit for both this course and course 260 in quarters when they are offered concurrently. Mastery of materials in the prerequisite courses will be verified with a quiz or assignment during the first two weeks of the course.",
+      "General Education": " ",
+      "Location": [
+        "Porter Acad 144"
+      ],
+      "Prerequisite": "Course 101 and Mathematics 21 or Applied Mathematics and Statistics 10. Concurrent enrollment in course 160L required.",
+      "Professor": [
+        " Pang,A."
+      ],
+      "Schedule": " MWF 09:20AM-10:25AM",
+      "Session": [
+        "01"
+      ],
+      "Term": "2017 Fall",
+      "Units": "5"
+    },
+    {
+      "Course": [
+        "CMPS 160L"
+      ],
+      "Course Name": [
+        "Comp Graphics Lab"
+      ],
+      "Description": "Complements course 160, gaining additional competence with a number of important software development tools, graphics libraries, and graphical user interfaces. Topics include OpenGL, WebGL, rubberbanding, picking, sliders, buttons, dialog, event handling, double buffering, lighting, shading, materials, and textures. The topic list may be updated to reflect technological changes.",
+      "General Education": " ",
+      "Location": [
+        "TBA"
+      ],
+      "Prerequisite": "Course 101 and Mathematics 21 or Applied Mathematics and Statistics 10.",
+      "Professor": [
+        " Pang,A."
+      ],
+      "Schedule": " TBA To Be Arranged",
+      "Session": [
+        "01"
+      ],
+      "Term": "2017 Fall",
+      "Units": "2"
+    },
+    {
+      "Course": [
+        "CMPS 166A"
+      ],
+      "Course Name": [
+        "Game Theory /Apps I"
+      ],
+      "Description": "Introduces modern game theory, including applications in social science, biology, and engineering. Topics include extensive form, strategic form, mixed strategies, incomplete information, repeated games, evolutionary games, and simulation techniques.",
+      "General Education": " ",
+      "Location": [
+        "PhysSciences 110"
+      ],
+      "Prerequisite": "Applied Math and Statistics 5 or 7 or Economics 113; and Economics 11B, Applied Math and Statistics 11B, or Mathematics 11B or 19B. Enrollment restricted to juniors and seniors.",
+      "Professor": [
+        " Friedman,D."
+      ],
+      "Schedule": " TuTh 03:20PM-04:55PM",
+      "Session": [
+        "01"
+      ],
+      "Term": "2017 Fall",
+      "Units": "5"
+    },
+    {
+      "Course": [
+        "CMPS 180"
+      ],
+      "Course Name": [
+        "Database Systems I"
+      ],
+      "Description": "Introduction to the concepts, approaches, tools, and methodology of database design. Covers the entity-relationship model, the relational model, relational algebra, relational calculus, commercial languages (such as SQL and QBE), functional dependencies, normal forms, and design theory. Other topics may include knowledge-bases, constraint databases, and alternative database models.",
+      "General Education": " ",
+      "Location": [
+        "J Baskin Engr 152"
+      ],
+      "Prerequisite": "Course 101.",
+      "Professor": [
+        " Finkelstein,S."
+      ],
+      "Schedule": " MWF 02:40PM-03:45PM",
+      "Session": [
+        "01"
+      ],
+      "Term": "2017 Fall",
+      "Units": "5"
+    },
+    {
+      "Course": [
+        "CMPS 185"
+      ],
+      "Course Name": [
+        "Technical Writing"
+      ],
+      "Description": "Writing and communication by computer science professionals to a technical audience. Geared toward students planning to pursue an advanced degree in computer science. Assignments include: cover letter and resume for job application, statement of purpose for graduate school application, algorithm description and analysis, user documentation, proposal preparation, critical analysis of published papers, survey of the literature, term paper, and oral presentations. May be repeated for credit.",
+      "General Education": " ",
+      "Location": [
+        "Cowell Clrm 131"
+      ],
+      "Prerequisite": "Course 101, one additional upper-division Computer Science course, and satisfaction of the Entry Level Writing and Composition requirements. Enrollment is restricted to computer science majors, or by permission of the instructor.",
+      "Professor": [
+        " Harrison,D.C."
+      ],
+      "Schedule": " MWF 10:40AM-11:45AM",
+      "Session": [
+        "01"
+      ],
+      "Term": "2017 Fall",
+      "Units": "5"
+    },
+    {
+      "Course": [
+        "CMPS 200"
+      ],
+      "Course Name": [
+        "Research & Teaching"
+      ],
+      "Description": "Basic teaching techniques for teaching assistants, including responsibilities and rights of teaching assistants, resource materials, computer security, leading discussion or lab sessions, presentation techniques, maintaining class records, electronic handling of homework, and grading. The course examines research and professional training, including use of the library and online databases, technical typesetting, writing journal and conference papers, publishing in computer science and computer engineering, giving talks in seminars and conferences, and ethical issues in science and engineering. Required for all teaching assistants.",
+      "General Education": " ",
+      "Location": [
+        "Engineer 2 180"
+      ],
+      "Prerequisite": "Enrollment restricted to graduate students.",
+      "Professor": [
+        " Pang,A."
+      ],
+      "Schedule": " TuTh 11:40AM-01:15PM",
+      "Session": [
+        "01"
+      ],
+      "Term": "2017 Fall",
+      "Units": "3"
+    },
+    {
+      "Course": [
+        "CMPS 201"
+      ],
+      "Course Name": [
+        "Analysis Algorithms"
+      ],
+      "Description": "Rigorous analysis of the time and space requirements of important algorithms, including worst case, average case, and amortized analysis. Techniques include order-notation, recurrence relations, information-theoretic lower bounds, adversary arguments. Analysis of the key data structures: trees, hash tables, balanced tree schemes, priority queues, Fibonacci and binomial heaps. Algorithmic paradigms such as divide and conquer, dynamic programming, union-find with path compression, augmenting paths. Selected advanced algorithms. Introduction to NP-completeness.",
+      "General Education": " ",
+      "Location": [
+        "Thim Lecture 001"
+      ],
+      "Prerequisite": "Enrollment restricted to graduate students; undergraduate students may enroll in this course if they have completed either course 102 or Computer Engineering 177 and have the consent of the instructor.",
+      "Professor": [
+        " Tantalo,P."
+      ],
+      "Schedule": " TuTh 09:50AM-11:25AM",
+      "Session": [
+        "01"
+      ],
+      "Term": "2017 Fall",
+      "Units": "5"
+    },
+    {
+      "Course": [
+        "CMPS 223"
+      ],
+      "Course Name": [
+        "Adv Comp Security"
+      ],
+      "Description": "Overview of research topics in computer and network security. Topics may include cryptographic operations, security properties and policies, authentication and access control, attacks on computer systems and defenses against them, security in programming languages, and network protocols for security.",
+      "General Education": " ",
+      "Location": [
+        "Engineer 2 192"
+      ],
+      "Prerequisite": "Enrollment restricted to graduate students or consent of instructor.",
+      "Professor": [
+        " Arden,O."
+      ],
+      "Schedule": " MWF 09:20AM-10:25AM",
+      "Session": [
+        "01"
+      ],
+      "Term": "2017 Fall",
+      "Units": "5"
+    },
+    {
+      "Course": [
+        "CMPS 242"
+      ],
+      "Course Name": [
+        "Machine Learning"
+      ],
+      "Description": "Introduction to machine learning algorithms. Covers learning models from fields of statistical decision theory and pattern recognition, artificial intelligence, and theoretical computer science. Topics include classification learning and the Probably Approximately Correct (PAC) learning framework, density estimation and Bayesian learning, EM, regression, and online learning. Provides an introduction to standard learning methods such as neural networks, decision trees, boosting, nearest neighbor, and support vector machines. Requirements include one major experimental learning project or theoretical paper. Students may not receive credit for both this course and course 142.",
+      "General Education": " ",
+      "Location": [
+        "Thim Lecture 001"
+      ],
+      "Prerequisite": "Enrollment restricted to graduate students.",
+      "Professor": [
+        " Warmuth,M."
+      ],
+      "Schedule": " TuTh 03:20PM-04:55PM",
+      "Session": [
+        "01"
+      ],
+      "Term": "2017 Fall",
+      "Units": "5"
+    },
+    {
+      "Course": [
+        "CMPS 250"
+      ],
+      "Course Name": [
+        "Intro InformtnTheory"
+      ],
+      "Description": "An introduction to information theory including topics such as entropy, relative entropy, mutual information, asymptotic equipartition property, channel capacity, differential entropy, rate distortion theory, and universal source coding.",
+      "General Education": " ",
+      "Location": [
+        "Engineer 2 194"
+      ],
+      "Prerequisite": "Computer Engineering 107, or Applied Mathematics and Statistics 131 or equivalent course, or permission of instructor.",
+      "Professor": [
+        " Sadjadpour,H.R."
+      ],
+      "Schedule": " MW 05:20PM-06:55PM",
+      "Session": [
+        "01"
+      ],
+      "Term": "2017 Fall",
+      "Units": "5"
+    },
+    {
+      "Course": [
+        "CMPS 250"
+      ],
+      "Course Name": [
+        "Intro InformtnTheory"
+      ],
+      "Description": "An introduction to information theory including topics such as entropy, relative entropy, mutual information, asymptotic equipartition property, channel capacity, differential entropy, rate distortion theory, and universal source coding.",
+      "General Education": " ",
+      "Location": [
+        "Silicon Valley"
+      ],
+      "Prerequisite": "Computer Engineering 107, or Applied Mathematics and Statistics 131 or equivalent course, or permission of instructor.",
+      "Professor": [
+        " Sadjadpour,H.R."
+      ],
+      "Schedule": " MW 05:20PM-06:55PM",
+      "Session": [
+        "50"
+      ],
+      "Term": "2017 Fall",
+      "Units": "5"
+    },
+    {
+      "Course": [
+        "CMPS 253"
+      ],
+      "Course Name": [
+        "Advanced Prog Langs"
+      ],
+      "Description": "Covers issues in the design, implementation, analysis, and specification of programming languages.  Topics include formal semantics (including operational, axiomatic, and denotational semantics), advanced type systems, program analysis (including abstract interpretation and model checking), specification, and verification.",
+      "General Education": " ",
+      "Location": [
+        "J Baskin Engr 372"
+      ],
+      "Prerequisite": "Course 203 or equivalent.",
+      "Professor": [
+        " Flanagan,C.A."
+      ],
+      "Schedule": " TuTh 01:30PM-03:05PM",
+      "Session": [
+        "01"
+      ],
+      "Term": "2017 Fall",
+      "Units": "5"
+    },
+    {
+      "Course": [
+        "CMPS 260"
+      ],
+      "Course Name": [
+        "Computer Graphics"
+      ],
+      "Description": "Introduces current research and techniques of modeling, 2D/3D transformation, matrix composition, shading algorithms, and rendering to obtain computer-generated imagery. Programming assignments and major project required. Students cannot receive credit for both this course and course 160.",
+      "General Education": " ",
+      "Location": [
+        "Crown Clrm 201"
+      ],
+      "Prerequisite": "Enrollment restricted to graduate students; undergraduates by interview only.",
+      "Professor": [
+        " Davis,J.E."
+      ],
+      "Schedule": " TuTh 08:00AM-09:35AM",
+      "Session": [
+        "01"
+      ],
+      "Term": "2017 Fall",
+      "Units": "5"
+    },
+    {
+      "Course": [
+        "CMPS 266A"
+      ],
+      "Course Name": [
+        "Introduction to R"
+      ],
+      "Description": "Introduces students to data visualization and statistical programming techniques using the R language. Covers the basics of the language, descriptive statistics, visual analytics, and applied linear regression. Enrollment is by permission of the instructor.",
+      "General Education": " ",
+      "Location": [
+        "J Baskin Engr 156"
+      ],
+      "Prerequisite": " ",
+      "Professor": [
+        " Rodriguez,A."
+      ],
+      "Schedule": " Tu 08:00AM-09:35AM",
+      "Session": [
+        "01"
+      ],
+      "Term": "2017 Fall",
+      "Units": "3"
+    },
+    {
+      "Course": [
+        "CMPS 266A"
+      ],
+      "Course Name": [
+        "Introduction to R"
+      ],
+      "Description": "Introduces students to data visualization and statistical programming techniques using the R language. Covers the basics of the language, descriptive statistics, visual analytics, and applied linear regression. Enrollment is by permission of the instructor.",
+      "General Education": " ",
+      "Location": [
+        "Silicon Valley"
+      ],
+      "Prerequisite": " ",
+      "Professor": [
+        " Rodriguez,A."
+      ],
+      "Schedule": " Tu 08:00AM-09:35AM",
+      "Session": [
+        "50"
+      ],
+      "Term": "2017 Fall",
+      "Units": "3"
+    },
+    {
+      "Course": [
+        "CMPS 266C"
+      ],
+      "Course Name": [
+        "Data Wrangling"
+      ],
+      "Description": "Introduces students to concepts and tools associated with data collection, curation, manipulation, and cleaning including an introduction to relational databases and SQL, regular expressions, API usage, and web scraping using Python.",
+      "General Education": " ",
+      "Location": [
+        "TBA"
+      ],
+      "Prerequisite": "Applied Mathematics and Statistics 266A or Computer Science 266A.",
+      "Professor": [
+        " Staff"
+      ],
+      "Schedule": " Cancelled Cancelled",
+      "Session": [
+        "01"
+      ],
+      "Term": "2017 Fall",
+      "Units": "3"
+    },
+    {
+      "Course": [
+        "CMPS 266C"
+      ],
+      "Course Name": [
+        "Data Wrangling"
+      ],
+      "Description": "Introduces students to concepts and tools associated with data collection, curation, manipulation, and cleaning including an introduction to relational databases and SQL, regular expressions, API usage, and web scraping using Python.",
+      "General Education": " ",
+      "Location": [
+        "TBA"
+      ],
+      "Prerequisite": "Applied Mathematics and Statistics 266A or Computer Science 266A.",
+      "Professor": [
+        " Staff"
+      ],
+      "Schedule": " Cancelled Cancelled",
+      "Session": [
+        "50"
+      ],
+      "Term": "2017 Fall",
+      "Units": "3"
+    },
+    {
+      "Course": [
+        "CMPS 280D"
+      ],
+      "Course Name": [
+        "Seminar Databases"
+      ],
+      "Description": "Covers advanced research topics from the recent literature in database systems and related fields. Involves presentations from UCSC students and faculty, and guest talks from researchers in industry and other academic institutions.  Enrollment by permission of instructor. May be repeated for credit.",
+      "General Education": " ",
+      "Location": [
+        "TBA"
+      ],
+      "Prerequisite": " ",
+      "Professor": [
+        " Alvaro,P.A."
+      ],
+      "Schedule": " TBA To Be Arranged",
+      "Session": [
+        "01"
+      ],
+      "Term": "2017 Fall",
+      "Units": "2"
+    },
+    {
+      "Course": [
+        "CMPS 290C"
+      ],
+      "Course Name": [
+        "Adv Machin Learning"
+      ],
+      "Description": "In-depth study of current research topics in machine learning. Topics vary from year to year but include multi-class learning with boosting and SUM algorithms, belief nets, independent component analysis, MCMC sampling, and advanced clustering methods. Students read and present research papers; theoretical homework in addition to a research project. May be repeated for credit.",
+      "General Education": " ",
+      "Location": [
+        "TBA"
+      ],
+      "Prerequisite": "Course 242.",
+      "Professor": [
+        " Staff"
+      ],
+      "Schedule": " Cancelled Cancelled",
+      "Session": [
+        "01"
+      ],
+      "Term": "2017 Fall",
+      "Units": "5"
+    }
+  ]
+}
